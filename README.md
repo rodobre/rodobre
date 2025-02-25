@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![rodobre's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodobre)](https://github.com/anuraghazra/github-readme-stats)
+![rodobre's Stats](https://github-readme-stats.vercel.app/api?username=rodobre&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![rodobre's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodobre&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **rodobre/rodobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
